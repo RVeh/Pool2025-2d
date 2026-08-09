@@ -1,6 +1,6 @@
-# Was hat ein Platz, was ein anderer nicht hat?
+# Eine Abituraufgabe weitergedacht
 
-## Ergänzende Materialien zu Symmetrien bei zufälligen Anordnungen
+## Programme zum Artikel
 
 ## Python-Simulationen
 
@@ -12,7 +12,7 @@ verändert und ausgeführt werden.
 Als Einstieg dient die Datei `00_Start.ipynb`; sie enthält eine Übersicht und
 direkte Verweise auf alle drei Simulationsprogramme.
 
-Dieses Repository enthält die digitalen  Materialien zum
+Dieses Repository enthält die digitalen  Programme zum
 Beitrag
 
 > Reimund Vehling: *Eine Abituraufgabe weitergedacht - vom berechneten Konfidenzintervall zur Verfahrenswahrscheinlichkeit und zurück*
