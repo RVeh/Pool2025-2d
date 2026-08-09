@@ -17,12 +17,6 @@ Beitrag
 
 > Reimund Vehling: *Eine Abituraufgabe weitergedacht - vom berechneten Konfidenzintervall zur Verfahrenswahrscheinlichkeit und zurück*
 
-Ausgangspunkt ...
-
-
-> Die Simulation lässt die Gleichberechtigung der Positionen sichtbar
-> werden, die Kombinatorik bestätigt sie exakt – die Symmetrie erklärt
-> sie.
 
 ## GeoGebra
 
